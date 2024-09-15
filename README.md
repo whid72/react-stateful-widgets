@@ -24,9 +24,9 @@ This project includes a `src/components` folder containing several React compone
 - [ ] Download project dependencies by running `npm install`.
 - [ ] Start up the app using `npm start`.
 - [ ] Optionally run tests using `npm test`. (The app must be running on `http://localhost:1234`)
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [ ] Create a new branch: git checkout -b darrion-white.
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: `git push origin <firstName-lastName>`.
+- [ ] Push commits: `git push origin darrion-white`.
 
 ### Task 2a: Minimum Viable Product
 
